@@ -1,0 +1,9 @@
+<templateSet group="YZ">
+  <template name="log" value="private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成SL4J日志语句" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

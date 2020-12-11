@@ -1,0 +1,437 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_80&quot;" />
+      <homePath value="D:/Program Files/Java/jdk1.7.0_80" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/jfxrt.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://docs.oracle.com/javafx/2/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/Program Files/Java/jdk1.7.0_80/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_102&quot;" />
+      <homePath value="D:/Program Files/Java/jdk1.8.0_102" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/src.zip!/" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk1.8.0_102/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.7&quot;" />
+      <homePath value="D:/Program Files/Java/jdk-11.0.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.base" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.compiler" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.desktop" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.instrument" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.logging" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.management" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.naming" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.net.http" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.prefs" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.rmi" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.scripting" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.se" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.sql" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.xml" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.aot" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.attach" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.crypto.mscapi" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.editpad" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jcmd" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jconsole" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jshell" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.jstatd" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.management" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.net" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.pack" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.rmic" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/Program Files/Java/jdk-11.0.7!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://D:/Program Files/Java/jdk-11.0.7/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="11-open-hotspot" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.base" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.compiler" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.desktop" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.instrument" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.logging" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.management" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.naming" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.net.http" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.prefs" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.rmi" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.scripting" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.se" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.sql" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.xml" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.aot" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.attach" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.crypto.mscapi" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.editpad" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jcmd" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jconsole" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jshell" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.jstatd" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.management" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.naming.ldap" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.net" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.pack" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.rmic" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jar://D:/appl/scoop/apps/adoptopenjdk-lts-hotspot/current/lib/src.zip!/jdk.naming.ldap" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
