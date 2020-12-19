@@ -1,0 +1,90 @@
+<templateSet group="定义属性">
+  <template name="psfi" value="public static final int $var1$ = $var2$; $END$" description="public static final int" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psf" value="public static final String $var2$ = $var3$; $END$" description="public static final String" toReformat="true" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="private String $var1$; $END$" description="private String" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psfic" value="/**&#10; * $var3$&#10; */&#10;public static final int $var1$ = $var2$; $END$" description="public static final int (带注释)" toReformat="false" toShortenFQNames="true">
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psc" value="/**&#10; * $var2$&#10; */&#10;private String $var1$; $END$" description="private String (带注释)" toReformat="false" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psfc" value="/**&#10; * $var3$&#10; */&#10;public static final String $var2$ = $var3$; $END$" description="public static final String(带注释)" toReformat="true" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="private int $var1$; $END$" description="private int" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pic" value="/**&#10; * $var2$&#10; */&#10;private int $var1$; $END$" description="private int (带注释)" toReformat="false" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pd" value="private double $var1$; $END$" description="private double" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pdc" value="/**&#10; * $var2$&#10; */&#10;private double $var1$; $END$" description="private double (带注释)" toReformat="false" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pb" value="private boolean $var1$; $END$" description="private boolean" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pbc" value="/**&#10; * $var2$&#10; */&#10;private boolean $var1$; $END$" description="private boolean (带注释)" toReformat="false" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pif" value="private final $var1$ $var2$; $END$" description="private final" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
