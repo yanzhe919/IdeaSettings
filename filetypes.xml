@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="CM3BKBH" type="AUTO_DETECTED" />
       <mapping ext="flt" type="FTL" />
       <mapping pattern="TestJSP" type="JSPX" />
       <mapping ext="gradle.kts" type="Kotlin" />
