@@ -17,6 +17,11 @@
         <option value="deep-completions" />
       </set>
     </option>
+    <option name="incompleteIndexingProjects">
+      <set>
+        <option value="d76f0da6" />
+      </set>
+    </option>
     <option name="usedLanguages">
       <set>
         <option value="java" />
