@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rmc-batch\src\com\ylink\rmc\batch\enums\ItemGroup.java [rmc-batch]'" />
-    <option name="defaultScopeName" value="File '...\rmc-batch\src\com\ylink\rmc\batch\enums\ItemGroup.java [rmc-batch]'" />
-    <option name="SEARCH_SCOPE" value="File '...\rmc-batch\src\com\ylink\rmc\batch\enums\ItemGroup.java [rmc-batch]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
