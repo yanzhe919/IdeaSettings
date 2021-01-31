@@ -11,6 +11,7 @@
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="r3469" type="PLAIN_TEXT" />
       <mapping ext="icu" type="PLAIN_TEXT" />
+      <mapping ext="b052" type="PLAIN_TEXT" />
       <mapping ext="cnv" type="PLAIN_TEXT" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
