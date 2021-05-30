@@ -1958,6 +1958,11 @@
                       <FeaturePluginData displayName="Alibaba Cloud Remote Debug" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
+                  <entry key="ALIBABA_MICROSERVICE_CONTAINER_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Alibaba Microservice Container" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="AntRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
