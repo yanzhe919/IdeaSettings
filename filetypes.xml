@@ -6,6 +6,7 @@
       <mapping pattern="GPFIMATX" type="AUTO_DETECTED" />
       <mapping ext="flt" type="FTL" />
       <mapping pattern="TestJSP" type="JSPX" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
